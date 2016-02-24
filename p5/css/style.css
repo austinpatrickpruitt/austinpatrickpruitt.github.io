@@ -1,0 +1,28 @@
+ h1{
+    color: black;
+ background-color: lightblue; 
+ }
+h2{
+    color: black;
+}
+h3{
+    color: black;
+}
+h4{
+    color: blue;
+}
+h5{
+    color: purple;
+}
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/236x/21/3f/26/213f26a5665ba56278671ac680290906.jpg");
+}
+body {
+  text-align: center;
+ }
+
+#page-wrap {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
